@@ -140,11 +140,3 @@ The project includes 13 unique, well-structured test cases focusing on inventory
 - **Code Organization:** Clear, modular structure and consistent naming.
 - **Test Configuration:** Headed Chrome execution, parallelism, and configurable timeouts.
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
