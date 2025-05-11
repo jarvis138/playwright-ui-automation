@@ -1,4 +1,4 @@
-# Playwright UI Test Automation
+# Playwright Assignment
 
 This project provides robust UI test automation using Playwright and TypeScript for the Sauce Demo website (https://www.saucedemo.com/), focusing on inventory and product management functionality.
 
